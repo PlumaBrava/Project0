@@ -38,6 +38,7 @@
                 android:background="@drawable/button_udacity"
                 style="@style/button_text"
                 android:text="@string/button0"
+                android:onClick="button0lick"
                 />
             <Button
                 android:id="@+id/button1"
