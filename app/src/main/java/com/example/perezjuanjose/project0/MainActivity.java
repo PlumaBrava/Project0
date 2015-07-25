@@ -90,7 +90,7 @@ public class MainActivity extends AppCompatActivity {
      */
     public void button0lick(View view) {
         // Do something in response to button click
-        Toast.makeText(context, "This button will lounch Popular Movies", Toast.LENGTH_SHORT).show();;
+        Toast.makeText(context, "This button will launch Popular Movies", Toast.LENGTH_SHORT).show();;
     }
 
     /**Other way is set a listener for each button and decode it using R.Id.buttoId
